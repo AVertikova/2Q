@@ -1,6 +1,6 @@
 # 2Q
 
-An app for the 2Ku theatre
+An app for 2Ku theatre (Vladimir Zakharov's Theatre of Living Puppets).
 
 In progress.
 
